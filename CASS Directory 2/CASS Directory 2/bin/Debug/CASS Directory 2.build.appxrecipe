@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>CASS-1209HZ1</Machine>
+    <WindowsUser>cassadmin</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>7aeec8a2-f3e3-4ac3-86ed-c0224d763e22</PackageIdentityName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\cassadmin\Documents\Visual Studio 2012\Projects\CASS Directory 2_V4\CASS Directory 2\CASS Directory 2\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\cassadmin\Documents\Visual Studio 2012\Projects\CASS Directory 2_V4\CASS Directory 2\CASS Directory 2\bin\Debug\CASS Directory 2.exe">
+      <PackagePath>CASS Directory 2.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cassadmin\Documents\Visual Studio 2012\Projects\CASS Directory 2_V4\CASS Directory 2\CASS Directory 2\bin\Debug\MySql.Data.RT.dll">
+      <PackagePath>MySql.Data.RT.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cassadmin\Documents\Visual Studio 2012\Projects\CASS Directory 2_V4\CASS Directory 2\CASS Directory 2\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cassadmin\Documents\Visual Studio 2012\Projects\CASS Directory 2_V4\CASS Directory 2\CASS Directory 2\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cassadmin\Documents\Visual Studio 2012\Projects\CASS Directory 2_V4\CASS Directory 2\CASS Directory 2\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cassadmin\Documents\Visual Studio 2012\Projects\CASS Directory 2_V4\CASS Directory 2\CASS Directory 2\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cassadmin\Documents\Visual Studio 2012\Projects\CASS Directory 2_V4\CASS Directory 2\CASS Directory 2\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cassadmin\Documents\Visual Studio 2012\Projects\CASS Directory 2_V4\CASS Directory 2\CASS Directory 2\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cassadmin\Documents\Visual Studio 2012\Projects\CASS Directory 2_V4\CASS Directory 2\CASS Directory 2\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cassadmin\Documents\Visual Studio 2012\Projects\CASS Directory 2_V4\CASS Directory 2\CASS Directory 2\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cassadmin\Documents\Visual Studio 2012\Projects\CASS Directory 2_V4\CASS Directory 2\CASS Directory 2\bin\Debug\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cassadmin\Documents\Visual Studio 2012\Projects\CASS Directory 2_V4\CASS Directory 2\CASS Directory 2\bin\Debug\GroupedItemsPage.xbf">
+      <PackagePath>GroupedItemsPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cassadmin\Documents\Visual Studio 2012\Projects\CASS Directory 2_V4\CASS Directory 2\CASS Directory 2\bin\Debug\GroupDetailPage.xbf">
+      <PackagePath>GroupDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cassadmin\Documents\Visual Studio 2012\Projects\CASS Directory 2_V4\CASS Directory 2\CASS Directory 2\bin\Debug\ItemDetailPage.xbf">
+      <PackagePath>ItemDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cassadmin\Documents\Visual Studio 2012\Projects\CASS Directory 2_V4\CASS Directory 2\CASS Directory 2\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
